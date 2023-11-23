@@ -79,7 +79,7 @@ experiences:
             
             Customer Domains: Industrial, Financial, Healthcare, Food & Beverages
             
-            Main Technologies: Azure, Azure Data Factory, Azure Functions, Azure Synapse, Python, SQL, .NET, Azure Service Bus, Azure Logic Apps, Azure AD, AKS, ...
+            Main Technologies: Azure, Azure Data Factory, Azure Functions, Azure Databricks, Azure Data Lake, Azure Synapse, Python, SQL, .NET, Azure Service Bus, Azure Logic Apps, Azure AD, AKS, ...
       - role: Azure Consultant
         time: 2019 - 2020
         company: Realdolmen GFI
