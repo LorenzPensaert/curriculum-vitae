@@ -67,7 +67,7 @@ experiences:
             Main technologies: Azure Data Explorer, Azure Data Factory, Azure Functions, Azure Service Bus, Grafana, Azure Logic Apps, PowerApps
       - role: Cloud Solution Architect
         time: 2020 - 2022
-        company: Google, London
+        company: DexMach
         details: |
           Designing Azure based solutions that run natively on the cloud for both internal and external use within Enterprises and SMBs.
           
