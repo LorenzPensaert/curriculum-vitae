@@ -97,41 +97,55 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Git learning
-          start: 2019
-          end:
+        - name: Azure Solution Architect Expert
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Azure DevOps Engineer Expert
+          organization: Microsoft
+        - name: Azure IoT Developer Specialty
+          organization: Microsoft
+        - name: Azure Solution Architect Expert
+          organization: Microsoft
+        - name: Azure PowerBI Data Analyst
+          organization: Microsoft
+        - name: Azure Data Scientist Associate
+          organization: Microsoft
+        - name: Azure Developer Associate
+          organization: Microsoft
+        - name: Azure Data Engineer Associate
+          organization: Microsoft
+        - name: Azure Security Engineer Associate
+          organization: Microsoft
+        - name: Azure Security Operations Analyst Associate
+          organization: Microsoft
+        - name: Azure AI Fundamentals
+          organization: Microsoft
+        - name: Azure Data Fundamentals
+          organization: Microsoft
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Azure (Data & Apps)
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Solution Architecture
         level: 95%
+        
+      - name: Data Engineering & Analysis
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Pre-sales
+        level: 90%
+        
+      - name: Data Visualization
+        level: 80%
+        
+      - name: Web Development
+        level: 75%
+        
+      - name: Security
+        level: 70%
+        
+      - name: Networking
         level: 60%
