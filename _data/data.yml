@@ -63,6 +63,7 @@ experiences:
             - Trainer: Guiding junior members of the team through their career.
             
             Customer domains: Discrete Manufacturing, Food & Beverages, Machine Builders, Chemical/Gas/Oil, Automotive
+            
             Main technologies: Azure Data Explorer, Azure Data Factory, Azure Functions, Azure Service Bus, Grafana, Azure Logic Apps, PowerApps
       - role: Cloud Solution Architect
         time: 2020 - 2022
@@ -77,6 +78,7 @@ experiences:
             - Cloud Native Team Lead: Leading a small team of 5 Cloud Native specialists, guiding them and exploring new technologies.
             
             Customer Domains: Industrial, Financial, Healthcare, Food & Beverages
+            
             Main Technologies: Azure, Azure Data Factory, Azure Functions, Azure Synapse, Python, SQL, .NET, Azure Service Bus, Azure Logic Apps, Azure AD, AKS, ...
       - role: Azure Consultant
         time: 2019 - 2020
@@ -92,6 +94,7 @@ experiences:
           Consultancy at multiple enterprises performing data analysis and extraction through robot process automation.
 
             Customer Domains: Financial
+            
             Main Technologies: PowerBI, SQL, Azure, BluePrism, UiPath
 
 certifications:
